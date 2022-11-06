@@ -1,4 +1,4 @@
-# "Frequently asked questions section" with React and Tailwind CSS
+# "Frequently asked questions section" with React.js CSS
 
 #### Idea
 
