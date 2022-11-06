@@ -6,7 +6,7 @@
 
 # OUTPUT
 
-![OUTPUT!]()
+![OUTPUT!](https://github.com/usama-DVLPR/Frequently-asked-questions-section/blob/master/output/Screenshot%20from%202022-11-06%2012-35-31.png)
 
 ## Usage
 
